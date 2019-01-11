@@ -1,0 +1,34 @@
+{
+  "username" : "sql3273776",
+  "password" : "7b6a43524a7c0b1f6e3d4f2d312f7770477c612a43",
+  "url" : "jdbc:mysql://sql3.freemysqlhosting.net:3306/sql3273776?useUnicode=yes&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull",
+  "driverClass" : "com.mysql.jdbc.Driver",
+  "dialect" : "com.wavemaker.runtime.data.dialect.MySQLDialect",
+  "serviceId" : "sql3273776",
+  "packageName" : "com.nuevo.sql3273776",
+  "dbType" : "MySQL",
+  "host" : "sql3.freemysqlhosting.net",
+  "dbName" : "sql3273776",
+  "port" : "3306",
+  "schemaName" : null,
+  "tableFilter" : [ {
+    "table" : "USUARIOS",
+    "schema" : null
+  } ],
+  "schemaFilter" : [ ],
+  "impersonateUser" : false,
+  "activeDirectoryDomain" : null,
+  "hbm2ddl" : "none",
+  "maxPageSize" : 100,
+  "minPoolSize" : 2,
+  "maxPoolSize" : 4,
+  "transactionTimeout" : 30,
+  "dataSourceType" : "WM_MANAGED_DATASOURCE",
+  "jndiName" : "",
+  "reloadInfo" : {
+    "reload" : false,
+    "reason" : null,
+    "message" : null
+  },
+  "readOnly" : false
+}
