@@ -89,8 +89,10 @@
     "name" : "supportedLocale",
     "owner" : "App",
     "category" : "wm.Variable",
+    "dataBinding" : [ ],
     "dataSet" : {
-      "en" : "English"
+      "en" : "English",
+      "es-mx" : "español (México)"
     },
     "type" : "string",
     "isList" : false,
